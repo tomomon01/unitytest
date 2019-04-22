@@ -7,4 +7,12 @@ public class buttonScript : MonoBehaviour {
     {
         Application.LoadLevel("Piyo");
     }
+
+    public void Update()
+    {
+        if (Input.GetKeyDown("joystick button 2"))
+        {
+            Application.LoadLevel("Piyo");
+        }
+    }
 }
