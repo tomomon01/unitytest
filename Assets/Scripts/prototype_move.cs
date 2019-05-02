@@ -24,6 +24,7 @@ public class prototype_move : MonoBehaviour {
             Vector3 pos = new Vector3(11, vecY, 1);//4.4f
             GameObject tree = Instantiate(Prefab, pos, transform.rotation) as GameObject;
             tree.transform.parent = movingObj.transform;
+            Destroy(tree, 6);
             yield return new WaitForSeconds(second);//0.26f
         }
     }
