@@ -5,16 +5,22 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Title.unity
     guid: 031cd2467187e42bbbfa5deb5be48156
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Main.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Piyo.unity
     guid: 7b09677845a3a4529920ed647b0796e6
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/piyotitle.unity
     guid: 4ef983bc1e9e243679a62dde74509a8c
+  - enabled: 1
+    path: Assets/Scenes/prototype_title.unity
+    guid: 973293e8a16d5444c89d610052745e38
+  - enabled: 1
+    path: Assets/Scenes/prototype.unity
+    guid: e14d83b0c5c404ee98464272a82e509a
   m_configObjects: {}

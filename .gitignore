@@ -4,6 +4,8 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
+/SwitchIL2CPPCache/
+/SwitchIL2CPPStats/
 
 # Visual Studio cache directory
 .vs/
